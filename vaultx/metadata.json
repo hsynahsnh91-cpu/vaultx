@@ -1,0 +1,6 @@
+{
+  "name": "VaultX",
+  "description": "Production-grade secure personal vault for encrypted files, notes, passwords, and records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
